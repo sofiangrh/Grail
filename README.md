@@ -1,5 +1,5 @@
 # Description
-A theme that looks like Rhapsody.
+A simple theme that looks like Rhapsody.
 
 # Changelog
 - 1.0 First release
